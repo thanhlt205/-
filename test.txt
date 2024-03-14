@@ -3,7 +3,10 @@ int main(){
 printf("Hello");
 printf("Chào");
 printf("Chào bạn");
+<<<<<<< Updated upstream
 printf("Thay đổi trên github");
 printf("");
+=======
+>>>>>>> Stashed changes
 return 0;
 }
