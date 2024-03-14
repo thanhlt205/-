@@ -4,5 +4,6 @@ printf("Hello");
 printf("Chào");
 printf("Chào bạn");
 printf("Thay đổi trên github");
+printf("");
 return 0;
 }
